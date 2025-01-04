@@ -9,7 +9,7 @@ This was translated from Minecraft core shaders into Iris, as the resource packs
 <details>
 <summary>Screenshots</summary>
 
-![Screenshot inside Minecraft with the shaderpack on, near a village and facing a cave](./images/2025-01-04_11.51.04.png)
+![Screenshot inside Minecraft with the shaderpack on, near a village and facing a cave](./images/demo1.png)
 
-![Screenshot inside minecraft with the shaderpack on, near a pillager outpost ](./images/2025-01-04_13.27.26.png)
+![Screenshot inside minecraft with the shaderpack on, near a pillager outpost ](./images/demo2.png)
 </details>

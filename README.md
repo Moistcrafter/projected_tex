@@ -6,10 +6,11 @@ This was translated from Minecraft core shaders into glsl; the resource packs no
 If I'm missing any credits or something, create pull request I will try to resopnd thx 🔥<br>
 
 <details>
-<summary>Screenshots</summary>
+<summary>Demos</summary>
 
 ![demo2](https://github.com/user-attachments/assets/e2cbbd1b-5357-4f21-b300-bac032a203df)
 ![demo1](https://github.com/user-attachments/assets/6cfac18c-6960-41d1-a7ae-b444b8c6e57e)
+<video src='https://github.com/user-attachments/assets/0fd37060-6af7-4c86-a414-e7d5b986a158' width=180/>
 </details>
 
 # Usage
